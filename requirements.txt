@@ -1,0 +1,5 @@
+# Note: These requirements are for deployment on Render, since it is out-of-date.
+# streamlit==1.26.0
+streamlit==1.23.1
+pandas==2.1.0
+requests==2.31.0
